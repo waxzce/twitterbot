@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : cron.xml
+    Created on : 25 janvier 2010, 15:37
+    Author     : waxzce
+    Description:
+        Purpose of the document follows.
+-->
+<cronentries>
+  <cron>
+    <url>/TwitterSearchYQL</url>
+    <description>twitter search</description>
+    <schedule>every 5 minutes</schedule>
+  </cron>  
+</cronentries>

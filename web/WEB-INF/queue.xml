@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : queue.xml
+    Created on : 25 janvier 2010, 15:22
+    Author     : waxzce
+    Description:
+        Purpose of the document follows.
+-->
+<queue-entries>
+  <queue>
+    <name>twitterpost</name>
+    <rate>60/h</rate>
+  </queue>
+</queue-entries>
